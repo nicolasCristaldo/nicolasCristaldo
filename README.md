@@ -2,15 +2,18 @@
 <h1>👋 Hi, I´m Nicolás</h1>
 </div>
 
-Soy un desarrollador Android apasionado por crear aplicaciones eficientes y escalables. Me encanta trabajar con **Kotlin**, **Retrofit**, y **Room**, optimizando el rendimiento y la arquitectura de cada proyecto. 🚀📱
+Soy un **desarrollador Android** apasionado por construir aplicaciones modernas. Me especializo en **Kotlin** y **Jetpack Compose**, utilizando arquitecturas limpias como **MVVM** para crear código escalable y mantenible. Disfruto enfrentar desafíos y optimizar la experiencia del usuario. 🚀📱
 
 ## 💻 Tecnologías que uso
 
-- **Lenguajes:** Kotlin, C
-- **Frameworks:** Android SDK, Jetpack, Material Design
-- **Herramientas:** Android Studio, Git, Gradle
-- **Bases de Datos:** Room, SQLite
-- **Networking:** Retrofit
+- **Lenguajes:** Kotlin, Java, C, C#, JavaScript
+- **Android:** Jetpack Compose, Views, Android SDK
+- **Arquitectura:** MVVM, Clean Architecture
+- **Bases de Datos:** Room, SQLite, Firebase Firestore
+- **Networking:** Retrofit, OkHttp
+- **Herramientas:** Android Studio, Git, Gradle, Firebase
+- **Metodologías:** Git Flow
+- **Diseño:** Material Design
 
 ## 📊 My Stats
 <div align="center">
