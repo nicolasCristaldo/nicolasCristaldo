@@ -35,7 +35,7 @@ Soy un **desarrollador Android** apasionado por construir aplicaciones modernas.
 </div>
 
 ## Contáctame 👇
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nicol%C3%A1s%20Cristaldo-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nicolás-cristaldo-76320a378/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nicol%C3%A1s%20Cristaldo-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nicolas-cristaldo/)
 <br><br>
 [![Email](https://img.shields.io/badge/Email-Enviar-green?style=for-the-badge&logo=gmail)](mailto:crist4545@gmail.com)
 
