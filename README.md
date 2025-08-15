@@ -2,6 +2,8 @@
 <h1>👋 Hola, Soy Nicolás</h1>
 </div>
 
+![Portada](https://raw.githubusercontent.com/nicolasCristaldo/nicolasCristaldo/refs/heads/main/Readme_banner.jpg)
+
 Soy un **desarrollador Android** apasionado por construir aplicaciones modernas. Me especializo en **Kotlin** y **Jetpack Compose**, utilizando arquitecturas limpias como **MVVM** para crear código escalable y mantenible. Disfruto enfrentar desafíos y optimizar la experiencia del usuario. 🚀📱
 
 ## 💻 Tecnologías que uso
