@@ -22,6 +22,7 @@ Soy un **desarrollador Android** apasionado por construir aplicaciones modernas.
 ### Arquitectura & Herramientas
 ![MVVM](https://img.shields.io/badge/MVVM-FF6F00?style=for-the-badge)
 ![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-8E44AD?style=for-the-badge)
+![MVI](https://img.shields.io/badge/MVI-4285A5?style=for-the-badge)
 ![Room](https://img.shields.io/badge/Room-FFCA28?logo=android&logoColor=black&style=for-the-badge)
 ![Retrofit](https://img.shields.io/badge/Retrofit-3DDC84?logo=android&logoColor=white&style=for-the-badge)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge)
